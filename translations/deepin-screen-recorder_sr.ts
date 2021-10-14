@@ -1,0 +1,469 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="sr" version="2.1">
+<context>
+    <name>CountdownTooltip</name>
+    <message>
+        <source>Click the tray icon 
+or press the shortcut again to stop recording</source>
+        <translation>Кликни на иконицу у касети 
+или притисни поново пречицу да зауставиш снимање</translation>
+    </message>
+    <message>
+        <source>Do not rotate your screen during recording</source>
+        <translation>Немојте окретати екран током снимања</translation>
+    </message>
+</context>
+<context>
+    <name>MainToolWidget</name>
+    <message>
+        <source>Record</source>
+        <translation>Снимање</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>Усликавање</translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <source>Screen Capture</source>
+        <translation>Снимак екрана</translation>
+    </message>
+    <message>
+        <source>Save failed. Please save it in your home directory.</source>
+        <translation>Није сачувано. Молимо сачувајте у личном директоријуму.</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Прикажи</translation>
+    </message>
+    <message>
+        <source>Screenshot finished</source>
+        <translation>Усликавање завршено</translation>
+    </message>
+    <message>
+        <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
+        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+    </message>
+    <message>
+        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
+        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+    </message>
+    <message>
+        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
+        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+    </message>
+    <message>
+        <source>select-area</source>
+        <translation>изабери-површину</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Сачувај</translation>
+    </message>
+    <message>
+        <source>Saved to %1</source>
+        <translation>Сачувано у %1</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Занемари</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Остава</translation>
+    </message>
+    <message>
+        <source>Saving the screen recording file, please wait...</source>
+        <translation>Чување датототеке снимка, сачекајте...</translation>
+    </message>
+    <message>
+        <source>As the window effect is disabled during the process, the recording has to be stopped</source>
+        <translation>Ефекти прозора су искључени у току процеса, снимање је морало бити заустављено</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>Усликавање</translation>
+    </message>
+    <message>
+        <source>The screenshot has been saved in the album</source>
+        <translation>Слика екрана је сачувана у албуму</translation>
+    </message>
+    <message>
+        <source>Screenshot failed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MenuController</name>
+    <message>
+        <source>Undo</source>
+        <translation>Опозови</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Сачувај</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Изађи</translation>
+    </message>
+</context>
+<context>
+    <name>RecordProcess</name>
+    <message>
+        <source>View</source>
+        <translation>Пусти</translation>
+    </message>
+    <message>
+        <source>Recording finished</source>
+        <translation>Снимање завршено</translation>
+    </message>
+    <message>
+        <source>Saved to %1</source>
+        <translation>Сачувано у %1</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Снимање</translation>
+    </message>
+</context>
+<context>
+    <name>Screenshot</name>
+    <message>
+        <source>Screen Capture will start in %1 seconds</source>
+        <translation>Снимач Екрана ће се покренути за %1 сек.</translation>
+    </message>
+</context>
+<context>
+    <name>ShapesWidget</name>
+    <message>
+        <source>Input text here</source>
+        <translation>Овде унеси текст</translation>
+    </message>
+</context>
+<context>
+    <name>Shortcut</name>
+    <message>
+        <source>Start/Screenshot</source>
+        <translation>Покрени/Усликавање</translation>
+    </message>
+    <message>
+        <source>Exit/Save</source>
+        <translation>Изађи/Сачувај</translation>
+    </message>
+    <message>
+        <source>Size Adjustment</source>
+        <translation>Подешавање величине</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Подешавања</translation>
+    </message>
+    <message>
+        <source>Quick start</source>
+        <translation>Брзо покретање</translation>
+    </message>
+    <message>
+        <source>Window screenshot</source>
+        <translation>Усликавање прозора</translation>
+    </message>
+    <message>
+        <source>Delay screenshot</source>
+        <translation>Одложи усликавање</translation>
+    </message>
+    <message>
+        <source>Full screenshot</source>
+        <translation>Целовито усликавање</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Изађи</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Сачувај</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>Павоугаоник</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation>Елипса</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Линија</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Оловка</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Текст</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Обриши</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>Опозови</translation>
+    </message>
+    <message>
+        <source>Increase height up</source>
+        <translation>Повећај висину горе</translation>
+    </message>
+    <message>
+        <source>Increase height down</source>
+        <translation>Повећај висину доле</translation>
+    </message>
+    <message>
+        <source>Increase width left</source>
+        <translation>Повећај ширину лево</translation>
+    </message>
+    <message>
+        <source>Increase width right</source>
+        <translation>Повећај ширину десно</translation>
+    </message>
+    <message>
+        <source>Decrease height up</source>
+        <translation>Смањи висину горе</translation>
+    </message>
+    <message>
+        <source>Decrease height down</source>
+        <translation>Смањи висину доле</translation>
+    </message>
+    <message>
+        <source>Decrease width left</source>
+        <translation>Смањи ширину лево</translation>
+    </message>
+    <message>
+        <source>Decrease width right</source>
+        <translation>Смањи ширину десно</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Помоћ</translation>
+    </message>
+    <message>
+        <source>Display shortcuts</source>
+        <translation>Прикажи пречице</translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation>Звук</translation>
+    </message>
+    <message>
+        <source>Keystroke</source>
+        <translation>Куцање</translation>
+    </message>
+    <message>
+        <source>Webcam</source>
+        <translation>Мрежна камера</translation>
+    </message>
+    <message>
+        <source>Start recording</source>
+        <translation>Почни снимање</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Опције</translation>
+    </message>
+    <message>
+        <source>Start/Recording</source>
+        <translation>Почни/Снимање</translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation>Миш</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ShotToolWidget</name>
+    <message>
+        <source>Blur</source>
+        <translation>Замућење</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation>Мозаик</translation>
+    </message>
+</context>
+<context>
+    <name>SubToolWidget</name>
+    <message>
+        <source>Sound On</source>
+        <translation>Са звуком</translation>
+    </message>
+    <message>
+        <source>Microphone</source>
+        <translation>Микрофон</translation>
+    </message>
+    <message>
+        <source>System Audio</source>
+        <translation>Системски звук</translation>
+    </message>
+    <message>
+        <source>Sound Off</source>
+        <translation>Без звука</translation>
+    </message>
+    <message>
+        <source>Show Keystroke</source>
+        <translation>Прикажи куцање</translation>
+    </message>
+    <message>
+        <source>Hide Keystroke</source>
+        <translation>Сакриј куцање</translation>
+    </message>
+    <message>
+        <source>Webcam On</source>
+        <translation>Укључи камеру</translation>
+    </message>
+    <message>
+        <source>Webcam Off</source>
+        <translation>Искључи камеру</translation>
+    </message>
+    <message>
+        <source>Show Click</source>
+        <translation>Прикажи клик</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Опције</translation>
+    </message>
+    <message>
+        <source>Format:</source>
+        <translation>Формат:</translation>
+    </message>
+    <message>
+        <source>GIF</source>
+        <translation>GIF</translation>
+    </message>
+    <message>
+        <source>MP4</source>
+        <translation>MP4</translation>
+    </message>
+    <message>
+        <source>FPS:</source>
+        <translation>FPS:</translation>
+    </message>
+    <message>
+        <source>5 fps</source>
+        <translation>5 fps</translation>
+    </message>
+    <message>
+        <source>10 fps</source>
+        <translation>10 fps</translation>
+    </message>
+    <message>
+        <source>20 fps</source>
+        <translation>20 fps</translation>
+    </message>
+    <message>
+        <source>24 fps</source>
+        <translation>24 fps</translation>
+    </message>
+    <message>
+        <source>30 fps</source>
+        <translation>30 fps</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>Павоугаоник</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation>Елипса</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Линија</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Стрелица</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Оловка</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Текст</translation>
+    </message>
+    <message>
+        <source>Save to</source>
+        <translation>Сачувај у</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>Радна површина</translation>
+    </message>
+    <message>
+        <source>Pictures</source>
+        <translation>Слике</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>Фасцикла</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Формат</translation>
+    </message>
+    <message>
+        <source>PNG</source>
+        <translation>PNG</translation>
+    </message>
+    <message>
+        <source>JPG</source>
+        <translation>JPG</translation>
+    </message>
+    <message>
+        <source>BMP</source>
+        <translation>BMP</translation>
+    </message>
+    <message>
+        <source>MKV</source>
+        <translation>MKV</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Остава</translation>
+    </message>
+    <message>
+        <source>Show pointer</source>
+        <translation>Прикажи показивач</translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation>Миш</translation>
+    </message>
+    <message>
+        <source>Show Pointer</source>
+        <translation>Прикажи показивач</translation>
+    </message>
+    <message>
+        <source>Extract Text</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>TopTips</name>
+    <message>
+        <source> Adjust the recording area within %1*%2 to get better video effect</source>
+        <translation> подесите површину снимања у оквиру %1*%2 да добијете бољи видео ефекат</translation>
+    </message>
+</context>
+</TS>

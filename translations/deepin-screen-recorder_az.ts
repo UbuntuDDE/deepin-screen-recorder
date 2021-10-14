@@ -1,0 +1,469 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="az" version="2.1">
+<context>
+    <name>CountdownTooltip</name>
+    <message>
+        <source>Click the tray icon 
+or press the shortcut again to stop recording</source>
+        <translation>Treydəki nişana vurun
+və ya qısayolu yenidən basaraaq yazıkmanı dayandırın</translation>
+    </message>
+    <message>
+        <source>Do not rotate your screen during recording</source>
+        <translation>Yazılma zamanı ekranı döndərməyin</translation>
+    </message>
+</context>
+<context>
+    <name>MainToolWidget</name>
+    <message>
+        <source>Record</source>
+        <translation>Yazmaq</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>Ekran şəkli</translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <source>Screen Capture</source>
+        <translation>Ekran şəkli çəkmək</translation>
+    </message>
+    <message>
+        <source>Save failed. Please save it in your home directory.</source>
+        <translation>Saxlanıla bilmədi. Lütfən onu ev qovluğunda saxlayın</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Görünüş</translation>
+    </message>
+    <message>
+        <source>Screenshot finished</source>
+        <translation>Ekran şəkli çəkildi</translation>
+    </message>
+    <message>
+        <source>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</source>
+        <translation>PNG (*.png);;JPEG (*.jpg *.jpeg);;BMP (*.bmp)</translation>
+    </message>
+    <message>
+        <source>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</source>
+        <translation>JPEG (*.jpg *.jpeg);;PNG (*.png);;BMP (*.bmp)</translation>
+    </message>
+    <message>
+        <source>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</source>
+        <translation>BMP (*.bmp);;JPEG (*.jpg *.jpeg);;PNG (*.png)</translation>
+    </message>
+    <message>
+        <source>select-area</source>
+        <translation>sahə-seçimi</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Saxlamaq</translation>
+    </message>
+    <message>
+        <source>Saved to %1</source>
+        <translation>%1 qovluğunda saxlamaq</translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation>Gözardı etmək</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Mübadilə yaddaşı</translation>
+    </message>
+    <message>
+        <source>Saving the screen recording file, please wait...</source>
+        <translation>Ekran yazılması faylı saxlanılır, lütfən gösləyin...</translation>
+    </message>
+    <message>
+        <source>As the window effect is disabled during the process, the recording has to be stopped</source>
+        <translation>İşləmə zamanı pəncərə effekti söndürüldüyü üçün qeydə alma dayandırılmalıdır</translation>
+    </message>
+    <message>
+        <source>Screenshot</source>
+        <translation>Ekran şəkli</translation>
+    </message>
+    <message>
+        <source>The screenshot has been saved in the album</source>
+        <translation>Ekran şəkli albomda saxlanıldı</translation>
+    </message>
+    <message>
+        <source>Screenshot failed.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>MenuController</name>
+    <message>
+        <source>Undo</source>
+        <translation>Qaytarın</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Saxlamaq</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Çıxış</translation>
+    </message>
+</context>
+<context>
+    <name>RecordProcess</name>
+    <message>
+        <source>View</source>
+        <translation>Görünüş</translation>
+    </message>
+    <message>
+        <source>Recording finished</source>
+        <translation>Yazılma başa çatdı</translation>
+    </message>
+    <message>
+        <source>Saved to %1</source>
+        <translation>%1 qovluğunda saxlamaq</translation>
+    </message>
+    <message>
+        <source>Record</source>
+        <translation>Yazmaq</translation>
+    </message>
+</context>
+<context>
+    <name>Screenshot</name>
+    <message>
+        <source>Screen Capture will start in %1 seconds</source>
+        <translation>Ekran şəkli %1 saniyədən sonra çəkiləcək</translation>
+    </message>
+</context>
+<context>
+    <name>ShapesWidget</name>
+    <message>
+        <source>Input text here</source>
+        <translation>Mətni buraya daxil edin</translation>
+    </message>
+</context>
+<context>
+    <name>Shortcut</name>
+    <message>
+        <source>Start/Screenshot</source>
+        <translation>Başlatmaq/Ekran şəkli</translation>
+    </message>
+    <message>
+        <source>Exit/Save</source>
+        <translation>Çıxış/Saxlamaq</translation>
+    </message>
+    <message>
+        <source>Size Adjustment</source>
+        <translation>Ölçüsünü təyin edin</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Ayarlar</translation>
+    </message>
+    <message>
+        <source>Quick start</source>
+        <translation>Tez başlatmaq</translation>
+    </message>
+    <message>
+        <source>Window screenshot</source>
+        <translation>Pəncərənin şəkli</translation>
+    </message>
+    <message>
+        <source>Delay screenshot</source>
+        <translation>Ekran şəkli müddəti</translation>
+    </message>
+    <message>
+        <source>Full screenshot</source>
+        <translation>Tam ekran şəkli</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Çıxış</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Saxlamaq</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>Düzbucaqlı</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation>Ellips</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Xətt</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Qələm</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Mətn</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Silmək</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>Qaytarın</translation>
+    </message>
+    <message>
+        <source>Increase height up</source>
+        <translation>Hündürlüyü yuxarı artırın</translation>
+    </message>
+    <message>
+        <source>Increase height down</source>
+        <translation>Hündürlüyü aşağı artırın</translation>
+    </message>
+    <message>
+        <source>Increase width left</source>
+        <translation>Enini sola artırın</translation>
+    </message>
+    <message>
+        <source>Increase width right</source>
+        <translation>Enini sağa artırın</translation>
+    </message>
+    <message>
+        <source>Decrease height up</source>
+        <translation>Hündürlüyü yuxarıdan azaldın</translation>
+    </message>
+    <message>
+        <source>Decrease height down</source>
+        <translation>Hündürlüyü aşağıdan azaldın</translation>
+    </message>
+    <message>
+        <source>Decrease width left</source>
+        <translation>Enini soldan azaldın</translation>
+    </message>
+    <message>
+        <source>Decrease width right</source>
+        <translation>Enini sağdan azaldın</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Kömək</translation>
+    </message>
+    <message>
+        <source>Display shortcuts</source>
+        <translation>Ekran qısayolları</translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation>Səs</translation>
+    </message>
+    <message>
+        <source>Keystroke</source>
+        <translation>Düymə basılması</translation>
+    </message>
+    <message>
+        <source>Webcam</source>
+        <translation>Veb-kamera</translation>
+    </message>
+    <message>
+        <source>Start recording</source>
+        <translation>Yazmağa başlayın</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Seçimlər</translation>
+    </message>
+    <message>
+        <source>Start/Recording</source>
+        <translation>Başlatmaq/Yazılma</translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation>Siçan</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ShotToolWidget</name>
+    <message>
+        <source>Blur</source>
+        <translation>Yayğın</translation>
+    </message>
+    <message>
+        <source>Mosaic</source>
+        <translation>Mozaika</translation>
+    </message>
+</context>
+<context>
+    <name>SubToolWidget</name>
+    <message>
+        <source>Sound On</source>
+        <translation>Səsi açın</translation>
+    </message>
+    <message>
+        <source>Microphone</source>
+        <translation>Mikrofon</translation>
+    </message>
+    <message>
+        <source>System Audio</source>
+        <translation>Sistemin səsi</translation>
+    </message>
+    <message>
+        <source>Sound Off</source>
+        <translation>Səsi bağlayın</translation>
+    </message>
+    <message>
+        <source>Show Keystroke</source>
+        <translation>Düymə basılmasını göstərmək</translation>
+    </message>
+    <message>
+        <source>Hide Keystroke</source>
+        <translation>Düymə basılmasını gizlətmək</translation>
+    </message>
+    <message>
+        <source>Webcam On</source>
+        <translation>Veb-kameranı açın</translation>
+    </message>
+    <message>
+        <source>Webcam Off</source>
+        <translation>Veb-kameranı söndürün</translation>
+    </message>
+    <message>
+        <source>Show Click</source>
+        <translation>Klik görünsün</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>Seçimlər</translation>
+    </message>
+    <message>
+        <source>Format:</source>
+        <translation>Formatı:</translation>
+    </message>
+    <message>
+        <source>GIF</source>
+        <translation>GIF</translation>
+    </message>
+    <message>
+        <source>MP4</source>
+        <translation>MP4</translation>
+    </message>
+    <message>
+        <source>FPS:</source>
+        <translation>FPS:</translation>
+    </message>
+    <message>
+        <source>5 fps</source>
+        <translation>5 fps</translation>
+    </message>
+    <message>
+        <source>10 fps</source>
+        <translation>10 fps</translation>
+    </message>
+    <message>
+        <source>20 fps</source>
+        <translation>20 fps</translation>
+    </message>
+    <message>
+        <source>24 fps</source>
+        <translation>24 fps</translation>
+    </message>
+    <message>
+        <source>30 fps</source>
+        <translation>30 fps</translation>
+    </message>
+    <message>
+        <source>Rectangle</source>
+        <translation>Düzbucaqlı</translation>
+    </message>
+    <message>
+        <source>Ellipse</source>
+        <translation>Ellips</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>Xətt</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation>Ox</translation>
+    </message>
+    <message>
+        <source>Pencil</source>
+        <translation>Qələm</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>Mətn</translation>
+    </message>
+    <message>
+        <source>Save to</source>
+        <translation>Belə saxlayın</translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation>İş Masası</translation>
+    </message>
+    <message>
+        <source>Pictures</source>
+        <translation>Şəkillər</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>Qovluq</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>Format</translation>
+    </message>
+    <message>
+        <source>PNG</source>
+        <translation>PNG</translation>
+    </message>
+    <message>
+        <source>JPG</source>
+        <translation>JPG</translation>
+    </message>
+    <message>
+        <source>BMP</source>
+        <translation>BMP</translation>
+    </message>
+    <message>
+        <source>MKV</source>
+        <translation>MKV</translation>
+    </message>
+    <message>
+        <source>Clipboard</source>
+        <translation>Mübadilə yaddaşı</translation>
+    </message>
+    <message>
+        <source>Show pointer</source>
+        <translation>Göstərici görünsün</translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation>Siçan</translation>
+    </message>
+    <message>
+        <source>Show Pointer</source>
+        <translation>Göstəricini göstərmək</translation>
+    </message>
+    <message>
+        <source>Extract Text</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>TopTips</name>
+    <message>
+        <source> Adjust the recording area within %1*%2 to get better video effect</source>
+        <translation>Daha yaxşı video effekti üçün %1*%2 daxilində yazılma sahəsini təyin edin</translation>
+    </message>
+</context>
+</TS>
