@@ -19,7 +19,6 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <iostream>
 #include "screen_shot_event.h"
 #include "keydefine.h"
 
@@ -29,6 +28,8 @@
 #include <X11/keysymdef.h>
 #include <X11/keysym.h>
 #include <X11/extensions/XTest.h>
+
+#include <iostream>
 
 ScreenShotEvent::ScreenShotEvent(QObject *parent) : QThread(parent)
 {
